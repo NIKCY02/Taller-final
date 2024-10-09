@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Iphone 12",
+    "description": "Este es un smartphone de alta gama",
+    "price": 1200
+  },
+  {
+    "name": "Samsung Galaxy S21",
+    "description": "Otro smartphone de alta gama",
+    "price": 999
+  }
+]
